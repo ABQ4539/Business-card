@@ -44,10 +44,11 @@ body {
     height: 34px;
     font-family: inherit;
     font-size: 14px;
+    border: none;
     border-radius: 6px;
     margin-top: 5px;
     margin-bottom: 35px;
-    padding-top: 3.5px;
+    padding-top: 2px;
 }
 #email-btn {
     margin-right: 8px;
